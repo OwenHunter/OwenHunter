@@ -42,3 +42,5 @@ GitHub
 [email]: mailto:ohunter1125@gmail.com "Email"
 [github]: https://www.github.com/OwenHunter "GitHub"
 [twitter]: https://www.twitter.com/13hunteo "Twitter"
+
+<!-- Stolen from https://github.com/cjharris18 -->
