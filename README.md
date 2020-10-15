@@ -5,37 +5,37 @@
 
 ### Languages and Tools:
 
-**Python**
+Python
 <img align="left" alt="python" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/python.svg" />
 <br />
 
-**C**
+C
 <img align="left" alt="c" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/c.svg" />
 <br />
 
-**Visual Basic**
+Visual Basic
 <img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/visualstudio.svg" />
 <br />
 
-**JavaScript**
+JavaScript
 <img align="left" alt="js" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/javascript.svg" />
 <br />
 
-**Git**
+Git
 <img align="left" alt="python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/git.svg" />
 <br />
 
 ### Connect with me:
 
-**Email**
+Email
 [<img align="left" alt="OwenHunter | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" />][email]
 <br />
 
-**GitHub**
+GitHub
 [<img align="left" alt="OwenHunter | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/github.svg" />][github]
 <br />
 
-~~**Twitter**~~
+~~Twitter~~
 ~~[<img align="left" alt="Owen Hunter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/twitter.svg" />][twitter]~~
 <br />
 
