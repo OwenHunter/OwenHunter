@@ -38,3 +38,7 @@
 ~~**Twitter**~~
 ~~[<img align="left" alt="Owen Hunter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/twitter.svg" />][twitter]~~
 <br />
+
+[email]: mailto:ohunter1125@gmail.com "Email"
+[github]: https://www.github.com/OwenHunter "GitHub"
+[twitter]: https://www.twitter.com/13hunteo "Twitter"
