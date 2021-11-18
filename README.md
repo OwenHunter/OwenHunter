@@ -39,7 +39,7 @@ Twitter
 [<img align="left" alt="OwenHunter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/twitter.svg" />][twitter]
 <br />
 
-[email]: mailto:ohunter1125@gmail.com "Email"
+[email]: mailto:hunterow@hotmail.co.uk "Email"
 [github]: https://www.github.com/OwenHunter "GitHub"
 [twitter]: https://www.twitter.com/Owen13Hunter "Twitter"
 
